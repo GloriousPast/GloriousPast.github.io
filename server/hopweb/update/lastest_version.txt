@@ -1,3 +1,1 @@
-17<andnext>2.0.1<andnext>-修复JS/JSS注释颜色异常问题。
--修复播放动画时易闪退的问题。
--支持启动 EasyWeb IDE 继续编辑站点。
+19<andnext>2.0.2<andnext>适配高版本系统。
