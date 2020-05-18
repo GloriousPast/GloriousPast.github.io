@@ -1,1 +1,1 @@
-19<andnext>2.0.2<andnext>适配高版本系统。
+20<andnext>2.0.2f1<andnext>-修复部分问题。
