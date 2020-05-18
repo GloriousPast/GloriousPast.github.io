@@ -1,9 +1,2 @@
-55<andnext>2.4.1<andnext>功能更新：
-①全新的“夜间”主题。
-②更换了服务器源。
-③支持创建空文件。
-④支持使用Bootstrap框架。
-
-累积更新：
-①JS/JSS暂停时，不显示插入代码按钮。
-②未安装 HopWeb Editor 时，不显示[在 HopWeb Editor 上继续]按钮。
+56<andnext>2.4.2<andnext>Ⅰ.修复无法访问服务器问题。
+Ⅱ.修复部分UI错误。
