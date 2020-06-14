@@ -1,2 +1,1 @@
-57<andnext>2.4.2f1<andnext>Ⅰ.修复无法访问服务器问题。
-Ⅱ.修复部分UI错误。
+58<andnext>2.4.2f2<andnext>优化与修复
